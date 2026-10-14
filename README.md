@@ -184,5 +184,4 @@ src/
 - Attempts are saved only on the device. They are not synced and are lost if the app data is cleared.
 - Each test draws 5 questions from a pool of only 10 (150 in total), so questions repeat across retakes, although the selection, order and answer positions change. The facts in the questions were not independently reviewed.
 - A test cannot be paused or resumed. Leaving a test discards its answers.
-- No automated tests.#   T e s t P r e p H u b  
- 
+- No automated tests.
