@@ -1,0 +1,1682 @@
+{
+ "gk-1": [
+  {
+   "id": "gk-1-q1",
+   "text": "How many continents are there on Earth?",
+   "options": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-1-q2",
+   "text": "Which planet is known as the Red Planet?",
+   "options": [
+    "Venus",
+    "Mars",
+    "Jupiter",
+    "Mercury"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-1-q3",
+   "text": "Who is known as the Father of the Nation in India?",
+   "options": [
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Mahatma Gandhi",
+    "Sardar Patel"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-1-q4",
+   "text": "Which gas do plants take in from the air for photosynthesis?",
+   "options": [
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen",
+    "Carbon dioxide"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "gk-1-q5",
+   "text": "How many players does one football team have on the field?",
+   "options": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-1-q6",
+   "text": "Which is the largest ocean on Earth?",
+   "options": [
+    "Atlantic Ocean",
+    "Indian Ocean",
+    "Pacific Ocean",
+    "Arctic Ocean"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-1-q7",
+   "text": "What is the national animal of India?",
+   "options": [
+    "Lion",
+    "Elephant",
+    "Tiger",
+    "Leopard"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-1-q8",
+   "text": "How many days are there in a leap year?",
+   "options": [
+    "365",
+    "366",
+    "364",
+    "367"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-1-q9",
+   "text": "Which organ pumps blood around the human body?",
+   "options": [
+    "Lungs",
+    "Liver",
+    "Heart",
+    "Kidney"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-1-q10",
+   "text": "Which festival is known as the festival of lights?",
+   "options": [
+    "Holi",
+    "Diwali",
+    "Eid",
+    "Baisakhi"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "gk-2": [
+  {
+   "id": "gk-2-q1",
+   "text": "What is the capital of Australia?",
+   "options": [
+    "Sydney",
+    "Melbourne",
+    "Canberra",
+    "Perth"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-2-q2",
+   "text": "Which is the highest mountain above sea level?",
+   "options": [
+    "K2",
+    "Kangchenjunga",
+    "Mount Everest",
+    "Makalu"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-2-q3",
+   "text": "Which is the largest hot desert in the world?",
+   "options": [
+    "Gobi",
+    "Sahara",
+    "Arabian",
+    "Kalahari"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-2-q4",
+   "text": "Which strait separates Europe from Africa?",
+   "options": [
+    "Bering Strait",
+    "Strait of Malacca",
+    "Strait of Hormuz",
+    "Strait of Gibraltar"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "gk-2-q5",
+   "text": "The Amazon rainforest lies mainly in which country?",
+   "options": [
+    "Peru",
+    "Colombia",
+    "Brazil",
+    "Argentina"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-2-q6",
+   "text": "Which continent has the most countries?",
+   "options": [
+    "Asia",
+    "Africa",
+    "Europe",
+    "South America"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-2-q7",
+   "text": "Which river flows through London?",
+   "options": [
+    "Seine",
+    "Danube",
+    "River Thames",
+    "Rhine"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-2-q8",
+   "text": "What is the capital of Canada?",
+   "options": [
+    "Toronto",
+    "Ottawa",
+    "Vancouver",
+    "Montreal"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-2-q9",
+   "text": "Which is the smallest continent by land area?",
+   "options": [
+    "Europe",
+    "Antarctica",
+    "Australia",
+    "South America"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-2-q10",
+   "text": "Mount Kilimanjaro is located in which country?",
+   "options": [
+    "Kenya",
+    "Uganda",
+    "Tanzania",
+    "Ethiopia"
+   ],
+   "correctIndex": 2
+  }
+ ],
+ "gk-3": [
+  {
+   "id": "gk-3-q1",
+   "text": "The Quit India Movement was launched in which year?",
+   "options": [
+    "1930",
+    "1942",
+    "1920",
+    "1946"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-3-q2",
+   "text": "Who chaired the Drafting Committee of the Indian Constitution?",
+   "options": [
+    "Rajendra Prasad",
+    "Jawaharlal Nehru",
+    "B. R. Ambedkar",
+    "Sardar Patel"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-3-q3",
+   "text": "On which date did the Indian Constitution come into effect?",
+   "options": [
+    "15 August 1947",
+    "26 November 1949",
+    "26 January 1950",
+    "2 October 1950"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "gk-3-q4",
+   "text": "Which Article of the Indian Constitution abolishes untouchability?",
+   "options": [
+    "Article 14",
+    "Article 15",
+    "Article 21",
+    "Article 17"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "gk-3-q5",
+   "text": "In which year did the Jallianwala Bagh massacre take place?",
+   "options": [
+    "1915",
+    "1919",
+    "1922",
+    "1930"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-3-q6",
+   "text": "Who was the first President of India?",
+   "options": [
+    "Dr. Rajendra Prasad",
+    "Dr. S. Radhakrishnan",
+    "Jawaharlal Nehru",
+    "Zakir Husain"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "gk-3-q7",
+   "text": "The Battle of Plassey was fought in which year?",
+   "options": [
+    "1707",
+    "1757",
+    "1764",
+    "1857"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-3-q8",
+   "text": "Who gave the slogan \"Jai Jawan Jai Kisan\"?",
+   "options": [
+    "Jawaharlal Nehru",
+    "Lal Bahadur Shastri",
+    "Indira Gandhi",
+    "Sardar Patel"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-3-q9",
+   "text": "How many Fundamental Rights does the Indian Constitution currently guarantee?",
+   "options": [
+    "Five",
+    "Six",
+    "Seven",
+    "Eight"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "gk-3-q10",
+   "text": "In which year was the Indian National Congress founded?",
+   "options": [
+    "1857",
+    "1885",
+    "1905",
+    "1919"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "math-1": [
+  {
+   "id": "math-1-q1",
+   "text": "What is 20% of 150?",
+   "options": [
+    "20",
+    "25",
+    "30",
+    "35"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-1-q2",
+   "text": "Simplify the ratio 12 : 18.",
+   "options": [
+    "3 : 4",
+    "2 : 3",
+    "4 : 5",
+    "1 : 2"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-1-q3",
+   "text": "What is the average of 10, 20 and 30?",
+   "options": [
+    "15",
+    "20",
+    "25",
+    "30"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-1-q4",
+   "text": "An item bought for 200 is sold for 250. What is the profit?",
+   "options": [
+    "25",
+    "50",
+    "75",
+    "100"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-1-q5",
+   "text": "If 5 pens cost 50, what do 8 pens cost?",
+   "options": [
+    "60",
+    "70",
+    "80",
+    "90"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-1-q6",
+   "text": "What is 15 x 6?",
+   "options": [
+    "80",
+    "90",
+    "96",
+    "100"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-1-q7",
+   "text": "What is 25% of 200?",
+   "options": [
+    "25",
+    "40",
+    "50",
+    "75"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-1-q8",
+   "text": "What is the average of 4, 8, 12 and 16?",
+   "options": [
+    "8",
+    "9",
+    "10",
+    "12"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-1-q9",
+   "text": "The cost price is 400 and the selling price is 500. What is the profit percent?",
+   "options": [
+    "20%",
+    "25%",
+    "30%",
+    "100%"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-1-q10",
+   "text": "A car travels 60 km in 1 hour. How far does it go in 3 hours at the same speed?",
+   "options": [
+    "120 km",
+    "150 km",
+    "180 km",
+    "240 km"
+   ],
+   "correctIndex": 2
+  }
+ ],
+ "math-2": [
+  {
+   "id": "math-2-q1",
+   "text": "Solve for x: 3x + 5 = 20.",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-2-q2",
+   "text": "What is the sum of the angles of a triangle?",
+   "options": [
+    "90 degrees",
+    "180 degrees",
+    "270 degrees",
+    "360 degrees"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-2-q3",
+   "text": "What is the area of a rectangle 8 units long and 5 units wide?",
+   "options": [
+    "30",
+    "35",
+    "40",
+    "45"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-2-q4",
+   "text": "What are the roots of x^2 - 5x + 6 = 0?",
+   "options": [
+    "1 and 6",
+    "2 and 3",
+    "-2 and -3",
+    "2 and -3"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-2-q5",
+   "text": "What is the circumference of a circle of radius 7? (use pi = 22/7)",
+   "options": [
+    "22",
+    "44",
+    "66",
+    "154"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-2-q6",
+   "text": "Solve for x: 2x - 7 = 11.",
+   "options": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-2-q7",
+   "text": "What is the sum of the interior angles of a quadrilateral?",
+   "options": [
+    "180 degrees",
+    "270 degrees",
+    "360 degrees",
+    "540 degrees"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-2-q8",
+   "text": "What is the area of a triangle with base 10 and height 6?",
+   "options": [
+    "16",
+    "30",
+    "36",
+    "60"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-2-q9",
+   "text": "What is the value of (a + b)^2 when a = 3 and b = 2?",
+   "options": [
+    "13",
+    "20",
+    "25",
+    "36"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-2-q10",
+   "text": "A square has a perimeter of 28. What is its area?",
+   "options": [
+    "28",
+    "42",
+    "49",
+    "56"
+   ],
+   "correctIndex": 2
+  }
+ ],
+ "math-3": [
+  {
+   "id": "math-3-q1",
+   "text": "Two dice are rolled. What is the probability that the sum is 7?",
+   "options": [
+    "1/12",
+    "1/9",
+    "1/6",
+    "1/4"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-3-q2",
+   "text": "In how many ways can the letters of the word LEVEL be arranged?",
+   "options": [
+    "20",
+    "30",
+    "60",
+    "120"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-3-q3",
+   "text": "What is the HCF of 36 and 48?",
+   "options": [
+    "6",
+    "8",
+    "12",
+    "18"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-3-q4",
+   "text": "What is the sum of the first 20 natural numbers?",
+   "options": [
+    "190",
+    "200",
+    "210",
+    "220"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-3-q5",
+   "text": "A 150 m long train crosses a pole in 10 seconds. What is its speed?",
+   "options": [
+    "36 km/h",
+    "45 km/h",
+    "54 km/h",
+    "60 km/h"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-3-q6",
+   "text": "How many different 3-letter arrangements can be made from the letters A, B, C and D without repeating a letter?",
+   "options": [
+    "12",
+    "24",
+    "36",
+    "64"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-3-q7",
+   "text": "What is the LCM of 12 and 18?",
+   "options": [
+    "6",
+    "24",
+    "36",
+    "72"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-3-q8",
+   "text": "Two coins are tossed. What is the probability of getting exactly one head?",
+   "options": [
+    "1/4",
+    "1/3",
+    "1/2",
+    "3/4"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "math-3-q9",
+   "text": "The sum of two numbers is 20 and their difference is 4. What is the larger number?",
+   "options": [
+    "10",
+    "12",
+    "14",
+    "16"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "math-3-q10",
+   "text": "A man walks at 5 km/h. How long does he take to walk 12.5 km?",
+   "options": [
+    "2 hours",
+    "2.5 hours",
+    "3 hours",
+    "3.5 hours"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "rs-1": [
+  {
+   "id": "rs-1-q1",
+   "text": "Find the next number: 2, 4, 6, 8, ?",
+   "options": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-1-q2",
+   "text": "Bird : Fly :: Fish : ?",
+   "options": [
+    "Walk",
+    "Swim",
+    "Run",
+    "Crawl"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-1-q3",
+   "text": "Which one is the odd one out?",
+   "options": [
+    "Apple",
+    "Banana",
+    "Carrot",
+    "Mango"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-1-q4",
+   "text": "If CAT is coded as DBU, how is DOG coded?",
+   "options": [
+    "EPH",
+    "DPH",
+    "EOH",
+    "FPI"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "rs-1-q5",
+   "text": "Which one does not belong with the others?",
+   "options": [
+    "Circle",
+    "Square",
+    "Triangle",
+    "Cube"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "rs-1-q6",
+   "text": "Find the next number: 5, 10, 15, 20, ?",
+   "options": [
+    "22",
+    "25",
+    "30",
+    "35"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-1-q7",
+   "text": "Cat : Kitten :: Dog : ?",
+   "options": [
+    "Cub",
+    "Puppy",
+    "Calf",
+    "Foal"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-1-q8",
+   "text": "Which one is different from the rest?",
+   "options": [
+    "Monday",
+    "Friday",
+    "January",
+    "Tuesday"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-1-q9",
+   "text": "If A = 1, B = 2 and C = 3, what is the value of D + E?",
+   "options": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-1-q10",
+   "text": "Which word is the opposite of \"ascend\"?",
+   "options": [
+    "Climb",
+    "Descend",
+    "Rise",
+    "Lift"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "rs-2": [
+  {
+   "id": "rs-2-q1",
+   "text": "All roses are flowers. All flowers are plants. Which conclusion must be true?",
+   "options": [
+    "All plants are roses",
+    "All roses are plants",
+    "Some plants are not flowers",
+    "No rose is a plant"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-2-q2",
+   "text": "Pointing to a man, a woman says, \"He is the son of my mother's only son.\" How is the man related to the woman?",
+   "options": [
+    "Brother",
+    "Nephew",
+    "Uncle",
+    "Son"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-2-q3",
+   "text": "Ravi walks 5 km north, then turns right and walks 3 km. Which direction is he now facing?",
+   "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-2-q4",
+   "text": "Find the next number: 3, 6, 12, 24, ?",
+   "options": [
+    "36",
+    "42",
+    "48",
+    "54"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-2-q5",
+   "text": "A is taller than B, and B is taller than C. Who is the shortest?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "Cannot say"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-2-q6",
+   "text": "Riya is facing east and turns left. Which direction is she facing now?",
+   "options": [
+    "North",
+    "South",
+    "West",
+    "East"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "rs-2-q7",
+   "text": "Pointing to a girl, Amit says, \"She is the daughter of my father's only sister.\" How is the girl related to Amit?",
+   "options": [
+    "Sister",
+    "Cousin",
+    "Aunt",
+    "Niece"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-2-q8",
+   "text": "Find the next number: 1, 3, 6, 10, 15, ?",
+   "options": [
+    "18",
+    "20",
+    "21",
+    "24"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-2-q9",
+   "text": "Some pens are books. All books are papers. Which conclusion must be true?",
+   "options": [
+    "All pens are papers",
+    "Some pens are papers",
+    "No pen is a paper",
+    "All papers are books"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-2-q10",
+   "text": "In a code, PEN is written as QFO. How is BAG written in the same code?",
+   "options": [
+    "CBH",
+    "CAH",
+    "BCH",
+    "DCI"
+   ],
+   "correctIndex": 0
+  }
+ ],
+ "rs-3": [
+  {
+   "id": "rs-3-q1",
+   "text": "In a row of 30 students, Anil is 12th from the left and Binu is 10th from the right. How many students are between them?",
+   "options": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-3-q2",
+   "text": "Five people sit in a row. A is at the extreme left and E at the extreme right. B sits right of A but left of C, and D sits right of C. Who sits in the middle?",
+   "options": [
+    "B",
+    "C",
+    "D",
+    "A"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-3-q3",
+   "text": "Statements: Some books are pens. All pens are pencils. Conclusions: I. Some books are pencils. II. All pencils are books. Which follows?",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Both follow",
+    "Neither follows"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "rs-3-q4",
+   "text": "Find the next number: 2, 6, 12, 20, 30, ?",
+   "options": [
+    "40",
+    "42",
+    "44",
+    "48"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-3-q5",
+   "text": "What is the angle between the hands of a clock at 3:00?",
+   "options": [
+    "60 degrees",
+    "75 degrees",
+    "90 degrees",
+    "120 degrees"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "rs-3-q6",
+   "text": "Rahul ranks 7th from the top and 18th from the bottom in a class. How many students are in the class?",
+   "options": [
+    "23",
+    "24",
+    "25",
+    "26"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-3-q7",
+   "text": "How many times do the hands of a clock coincide in 12 hours?",
+   "options": [
+    "10",
+    "11",
+    "12",
+    "22"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-3-q8",
+   "text": "Find the next number: 2, 3, 5, 7, 11, ?",
+   "options": [
+    "12",
+    "13",
+    "14",
+    "15"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "rs-3-q9",
+   "text": "A is the sister of B. C is the mother of B. D is the father of C. How is A related to D?",
+   "options": [
+    "Granddaughter",
+    "Daughter",
+    "Niece",
+    "Mother"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "rs-3-q10",
+   "text": "Statements: All pencils are pens. No pen is a marker. Which conclusion follows?",
+   "options": [
+    "Some pencils are markers",
+    "No pencil is a marker",
+    "All markers are pencils",
+    "All pens are pencils"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "en-1": [
+  {
+   "id": "en-1-q1",
+   "text": "Choose the correct form: She ___ to school every day.",
+   "options": [
+    "go",
+    "goes",
+    "going",
+    "gone"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-1-q2",
+   "text": "Choose the correct article: ___ apple a day keeps the doctor away.",
+   "options": [
+    "A",
+    "An",
+    "The",
+    "No article"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-1-q3",
+   "text": "Choose the correct word: The book is lying ___ the table.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "en-1-q4",
+   "text": "Choose the correct form: They ___ playing football yesterday.",
+   "options": [
+    "was",
+    "were",
+    "is",
+    "are"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-1-q5",
+   "text": "What is the plural of \"child\"?",
+   "options": [
+    "childs",
+    "childes",
+    "children",
+    "childrens"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "en-1-q6",
+   "text": "Choose the correct spelling.",
+   "options": [
+    "Recieve",
+    "Receive",
+    "Receeve",
+    "Receve"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-1-q7",
+   "text": "Choose the correct word: I have ___ my homework.",
+   "options": [
+    "do",
+    "did",
+    "done",
+    "doing"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "en-1-q8",
+   "text": "Choose the correct pronoun: ___ is my best friend.",
+   "options": [
+    "Him",
+    "He",
+    "Himself",
+    "His"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-1-q9",
+   "text": "Choose the correct preposition: She is good ___ mathematics.",
+   "options": [
+    "at",
+    "on",
+    "in",
+    "for"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "en-1-q10",
+   "text": "Choose the correct article: He is ___ honest man.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "en-2": [
+  {
+   "id": "en-2-q1",
+   "text": "Choose the synonym of \"rapid\".",
+   "options": [
+    "Slow",
+    "Quick",
+    "Weak",
+    "Calm"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-2-q2",
+   "text": "Choose the antonym of \"generous\".",
+   "options": [
+    "Kind",
+    "Rich",
+    "Brave",
+    "Selfish"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "en-2-q3",
+   "text": "What does the idiom \"break the ice\" mean?",
+   "options": [
+    "Break a frozen lake",
+    "Start a conversation in an awkward situation",
+    "End a friendship",
+    "Feel very cold"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-2-q4",
+   "text": "Choose one word for \"present everywhere\".",
+   "options": [
+    "Omniscient",
+    "Omnipresent",
+    "Omnipotent",
+    "Optimistic"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-2-q5",
+   "text": "Choose the synonym of \"abundant\".",
+   "options": [
+    "Scarce",
+    "Tiny",
+    "Costly",
+    "Plentiful"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "en-2-q6",
+   "text": "Choose the synonym of \"commence\".",
+   "options": [
+    "Finish",
+    "Begin",
+    "Pause",
+    "Cancel"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-2-q7",
+   "text": "Choose the antonym of \"ancient\".",
+   "options": [
+    "Old",
+    "Modern",
+    "Historic",
+    "Antique"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-2-q8",
+   "text": "What does the idiom \"a piece of cake\" mean?",
+   "options": [
+    "A dessert",
+    "Something very easy",
+    "A small gift",
+    "Something expensive"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-2-q9",
+   "text": "Choose one word for \"a person who loves books\".",
+   "options": [
+    "Bibliophile",
+    "Philatelist",
+    "Optimist",
+    "Pessimist"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "en-2-q10",
+   "text": "Choose the synonym of \"brief\".",
+   "options": [
+    "Long",
+    "Short",
+    "Heavy",
+    "Loud"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "en-3": [
+  {
+   "id": "en-3-q1",
+   "text": "Read: \"Regular exercise strengthens the heart, lifts mood and improves sleep.\" What is the main idea?",
+   "options": [
+    "Exercise has several health benefits",
+    "Sleep matters more than exercise",
+    "Only the heart needs exercise",
+    "Mood cannot be changed"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "en-3-q2",
+   "text": "Choose the correct sentence.",
+   "options": [
+    "Neither of the boys have finished.",
+    "Neither of the boys has finished.",
+    "Neither of the boy have finished.",
+    "Neither of the boys are finished."
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-3-q3",
+   "text": "Read: \"Maya packed an umbrella because the sky was full of dark clouds.\" What can be inferred?",
+   "options": [
+    "It was already raining",
+    "Maya expected rain",
+    "Maya dislikes sunny weather",
+    "Maya was going to the beach"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-3-q4",
+   "text": "Arrange in order: (P) He opened the door. (Q) Someone knocked loudly. (R) A parcel was lying outside.",
+   "options": [
+    "PQR",
+    "RQP",
+    "QPR",
+    "QRP"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "en-3-q5",
+   "text": "Choose the best word: The speaker's argument was so ___ that nobody could disagree.",
+   "options": [
+    "flimsy",
+    "vague",
+    "careless",
+    "compelling"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "en-3-q6",
+   "text": "Read: \"The library was silent except for the soft tapping of rain on the windows.\" What is the mood?",
+   "options": [
+    "Chaotic",
+    "Calm and quiet",
+    "Angry",
+    "Festive"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-3-q7",
+   "text": "Which sentence is grammatically correct?",
+   "options": [
+    "She don't like coffee.",
+    "She doesn't likes coffee.",
+    "She doesn't like coffee.",
+    "She not like coffee."
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "en-3-q8",
+   "text": "Arrange in order: (P) The seeds grew into plants. (Q) The farmer planted the seeds. (R) The plants gave a good harvest.",
+   "options": [
+    "PQR",
+    "QPR",
+    "RQP",
+    "QRP"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "en-3-q9",
+   "text": "Read: \"Although Neha studied all night, she felt calm during the exam.\" What can be inferred?",
+   "options": [
+    "She was well prepared",
+    "She skipped studying",
+    "She disliked the exam",
+    "She arrived late"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "en-3-q10",
+   "text": "Choose the best word: The scientist's explanation was so ___ that even children could follow it.",
+   "options": [
+    "obscure",
+    "lucid",
+    "complicated",
+    "confusing"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "cs-1": [
+  {
+   "id": "cs-1-q1",
+   "text": "What does CPU stand for?",
+   "options": [
+    "Central Processing Unit",
+    "Computer Personal Unit",
+    "Central Program Utility",
+    "Control Processing Unit"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "cs-1-q2",
+   "text": "Which of these is an input device?",
+   "options": [
+    "Monitor",
+    "Printer",
+    "Keyboard",
+    "Speaker"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-1-q3",
+   "text": "Which of these is an operating system?",
+   "options": [
+    "Excel",
+    "Python",
+    "HTML",
+    "Linux"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "cs-1-q4",
+   "text": "Which digits does the binary number system use?",
+   "options": [
+    "0 to 9",
+    "0 and 1",
+    "1 and 2",
+    "0 to 7"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-1-q5",
+   "text": "Which key combination copies selected text in most applications?",
+   "options": [
+    "Ctrl + V",
+    "Ctrl + X",
+    "Ctrl + C",
+    "Ctrl + Z"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-1-q6",
+   "text": "Which of these is an output device?",
+   "options": [
+    "Keyboard",
+    "Mouse",
+    "Printer",
+    "Scanner"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-1-q7",
+   "text": "What does RAM stand for?",
+   "options": [
+    "Read Access Memory",
+    "Random Access Memory",
+    "Rapid Action Memory",
+    "Run Application Memory"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-1-q8",
+   "text": "Which key combination pastes copied text in most applications?",
+   "options": [
+    "Ctrl + V",
+    "Ctrl + C",
+    "Ctrl + X",
+    "Ctrl + S"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "cs-1-q9",
+   "text": "What is the main circuit board of a computer called?",
+   "options": [
+    "Motherboard",
+    "Hard drive",
+    "Monitor",
+    "Power supply"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "cs-1-q10",
+   "text": "Which of these is a web browser?",
+   "options": [
+    "Windows",
+    "Chrome",
+    "Excel",
+    "Python"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "cs-2": [
+  {
+   "id": "cs-2-q1",
+   "text": "What does a loop do?",
+   "options": [
+    "Stores data",
+    "Repeats a block of code",
+    "Prints errors",
+    "Deletes variables"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-2-q2",
+   "text": "In OOP, bundling data and methods together in a class is called:",
+   "options": [
+    "Inheritance",
+    "Polymorphism",
+    "Recursion",
+    "Encapsulation"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "cs-2-q3",
+   "text": "Which data structure follows the LIFO principle?",
+   "options": [
+    "Queue",
+    "Stack",
+    "Array",
+    "Tree"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-2-q4",
+   "text": "What is the time complexity of binary search?",
+   "options": [
+    "O(n)",
+    "O(n^2)",
+    "O(1)",
+    "O(log n)"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "cs-2-q5",
+   "text": "A function that calls itself is called:",
+   "options": [
+    "Iterative",
+    "Static",
+    "Recursive",
+    "Abstract"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-2-q6",
+   "text": "Which of these is a loop statement in most languages?",
+   "options": [
+    "if",
+    "for",
+    "switch",
+    "return"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-2-q7",
+   "text": "What does OOP stand for?",
+   "options": [
+    "Object-Oriented Programming",
+    "Open Operating Process",
+    "Ordered Output Program",
+    "Object Output Processing"
+   ],
+   "correctIndex": 0
+  },
+  {
+   "id": "cs-2-q8",
+   "text": "Which data structure follows the FIFO principle?",
+   "options": [
+    "Stack",
+    "Queue",
+    "Tree",
+    "Graph"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-2-q9",
+   "text": "What is the result of 7 % 3 in most programming languages?",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-2-q10",
+   "text": "Which keyword defines a function in Python?",
+   "options": [
+    "func",
+    "def",
+    "function",
+    "fun"
+   ],
+   "correctIndex": 1
+  }
+ ],
+ "cs-3": [
+  {
+   "id": "cs-3-q1",
+   "text": "Which traversal of a binary search tree visits nodes in sorted order?",
+   "options": [
+    "Preorder",
+    "Inorder",
+    "Postorder",
+    "Level-order"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-3-q2",
+   "text": "What is the worst-case time complexity of Quick Sort?",
+   "options": [
+    "O(n log n)",
+    "O(n)",
+    "O(log n)",
+    "O(n^2)"
+   ],
+   "correctIndex": 3
+  },
+  {
+   "id": "cs-3-q3",
+   "text": "How many layers does the OSI model have?",
+   "options": [
+    "4",
+    "5",
+    "7",
+    "8"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-3-q4",
+   "text": "Which key uniquely identifies each row in a database table?",
+   "options": [
+    "Foreign key",
+    "Primary key",
+    "Index key",
+    "Sort key"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-3-q5",
+   "text": "Which device operates at the Network layer (Layer 3) of the OSI model?",
+   "options": [
+    "Hub",
+    "Switch",
+    "Router",
+    "Repeater"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-3-q6",
+   "text": "What is the time complexity of searching in a balanced binary search tree?",
+   "options": [
+    "O(1)",
+    "O(log n)",
+    "O(n)",
+    "O(n log n)"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-3-q7",
+   "text": "Which protocol translates domain names into IP addresses?",
+   "options": [
+    "HTTP",
+    "FTP",
+    "DNS",
+    "SMTP"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-3-q8",
+   "text": "Which normal form removes partial dependencies?",
+   "options": [
+    "First normal form",
+    "Second normal form",
+    "Third normal form",
+    "Boyce-Codd normal form"
+   ],
+   "correctIndex": 1
+  },
+  {
+   "id": "cs-3-q9",
+   "text": "Which sorting algorithm has a worst-case time complexity of O(n log n)?",
+   "options": [
+    "Bubble sort",
+    "Insertion sort",
+    "Merge sort",
+    "Selection sort"
+   ],
+   "correctIndex": 2
+  },
+  {
+   "id": "cs-3-q10",
+   "text": "What does TCP provide that UDP does not?",
+   "options": [
+    "Lower latency",
+    "Reliable, ordered delivery",
+    "Smaller headers",
+    "Multicast only"
+   ],
+   "correctIndex": 1
+  }
+ ]
+}
